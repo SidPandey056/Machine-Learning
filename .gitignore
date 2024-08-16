@@ -12,7 +12,7 @@ env.bak/
 venv.bak/
 
 # Jupyter Notebook
-**/.ipynb_checkpoints
+**/.ipynb_checkpoints/
 
 # Installer logs
 pip-log.txt
