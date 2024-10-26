@@ -2,6 +2,8 @@ Machine-Learning-Specialization-Coursera/
 mlenv/
 references/
 
+.gitignore
+
 # Environments
 .env
 .venv
